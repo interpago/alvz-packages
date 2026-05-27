@@ -26,6 +26,54 @@
       "author": "Eder Alvarez",
       "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/fs-extra/fs-extra.alvz",
       "entry": "fs-extra.alvz"
+    },
+    "strings": {
+      "name": "strings",
+      "version": "1.0.0",
+      "description": "Manipulacion de textos: invertir, capitalizar, truncar, palindromos, snake_case",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/strings/strings.alvz",
+      "entry": "strings.alvz"
+    },
+    "collections": {
+      "name": "collections",
+      "version": "1.0.0",
+      "description": "Operaciones avanzadas con listas: agrupar, ordenar, unique, aplanar, contar ocurrencias",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/collections/collections.alvz",
+      "entry": "collections.alvz"
+    },
+    "validacion": {
+      "name": "validacion",
+      "version": "1.0.0",
+      "description": "Validacion de datos: email, telefono, URL, rangos, longitud de texto",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/validacion/validacion.alvz",
+      "entry": "validacion.alvz"
+    },
+    "tiempo": {
+      "name": "tiempo",
+      "version": "1.0.0",
+      "description": "Formateo y calculos de fecha/hora: timestamps, dias entre fechas, bisiestos",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/tiempo/tiempo.alvz",
+      "entry": "tiempo.alvz"
+    },
+    "crypto": {
+      "name": "crypto",
+      "version": "1.0.0",
+      "description": "Utilidades criptograficas: base64, hash simple, generacion de IDs, sanitizacion HTML",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/crypto/crypto.alvz",
+      "entry": "crypto.alvz"
+    },
+    "datos": {
+      "name": "datos",
+      "version": "1.0.0",
+      "description": "Procesamiento de datos tabulares: parsear/generar CSV, filtrar y seleccionar columnas",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/datos/datos.alvz",
+      "entry": "datos.alvz"
     }
   }
 }
