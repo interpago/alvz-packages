@@ -1,0 +1,31 @@
+{
+  "name": "alvz-packages",
+  "description": "Registro publico de paquetes para Alvz Language",
+  "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/index.json",
+  "packages": {
+    "math": {
+      "name": "math",
+      "version": "1.0.0",
+      "description": "Funciones matematicas avanzadas: fibonacci, primos, combinatoria",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/math/math.alvz",
+      "entry": "math.alvz"
+    },
+    "json-utils": {
+      "name": "json-utils",
+      "version": "1.0.0",
+      "description": "Utilidades para manipular JSON: merge, diff, patch, validar esquemas",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/json-utils/json-utils.alvz",
+      "entry": "json-utils.alvz"
+    },
+    "fs-extra": {
+      "name": "fs-extra",
+      "version": "1.0.0",
+      "description": "Operaciones avanzadas de archivos: leer directorios, estadisticas, copiar arboles",
+      "author": "Eder Alvarez",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/fs-extra/fs-extra.alvz",
+      "entry": "fs-extra.alvz"
+    }
+  }
+}
