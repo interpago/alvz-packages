@@ -290,6 +290,46 @@
       "author": "Eder Alvarez",
       "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/cache/cache.alvz",
       "entry": "cache.alvz"
+    },
+    "colores": {
+      "name": "colores",
+      "version": "1.0.0",
+      "description": "Colores ANSI para terminal: texto, fondo, negrita, subrayado",
+      "author": "Alvz Team",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/colores/colores.alvz",
+      "entry": "colores.alvz"
+    },
+    "graficos": {
+      "name": "graficos",
+      "version": "1.0.0",
+      "description": "Graficos ASCII para terminal: barras de progreso, tablas, grafico de barras",
+      "author": "Alvz Team",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/graficos/graficos.alvz",
+      "entry": "graficos.alvz"
+    },
+    "log": {
+      "name": "log",
+      "version": "1.0.0",
+      "description": "Sistema de logging por niveles: depuracion, info, advertencia, error",
+      "author": "Alvz Team",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/log/log.alvz",
+      "entry": "log.alvz"
+    },
+    "archivos": {
+      "name": "archivos",
+      "version": "1.0.0",
+      "description": "Utilidades de archivos: leer/escribir JSON, CSV, texto",
+      "author": "Alvz Team",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/archivos/archivos.alvz",
+      "entry": "archivos.alvz"
+    },
+    "cli": {
+      "name": "cli",
+      "version": "1.0.0",
+      "description": "Analizador de argumentos de linea de comandos",
+      "author": "Alvz Team",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/cli/cli.alvz",
+      "entry": "cli.alvz"
     }
   }
 }
