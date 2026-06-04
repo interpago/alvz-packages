@@ -330,6 +330,14 @@
       "author": "Alvz Team",
       "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/cli/cli.alvz",
       "entry": "cli.alvz"
+    },
+    "excel": {
+      "name": "excel",
+      "version": "1.0.0",
+      "description": "Generacion de archivos compatibles con Excel: XML Spreadsheet, HTML table, CSV",
+      "author": "Alvz Team",
+      "url": "https://raw.githubusercontent.com/interpago/alvz-packages/main/packages/excel/excel.alvz",
+      "entry": "excel.alvz"
     }
   }
 }
